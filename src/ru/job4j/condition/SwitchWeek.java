@@ -29,5 +29,6 @@ public class SwitchWeek {
             default:
                 name = "Ошибка";
         }
+        return name;
     }
 }
