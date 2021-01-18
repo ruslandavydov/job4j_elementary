@@ -1,7 +1,5 @@
 package ru.job4j.array;
 
-import javax.swing.*;
-
 public class ArrayLoop {
 
     public static void main(String[] args) {
